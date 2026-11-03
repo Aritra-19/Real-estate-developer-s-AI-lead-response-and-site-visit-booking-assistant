@@ -27,8 +27,8 @@ The application includes a role-switching bar in the top navigation header for t
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/company-a-dev/real-estate-ai-assistant.git
-cd real-estate-ai-assistant
+git clone https://github.com/Aritra-19/Real-estate-developer-s-AI-lead-response-and-site-visit-booking-assistant.git
+cd real-estate-ai-agent
 ```
 
 ### Step 2: Install Dependencies

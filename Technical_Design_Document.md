@@ -1,8 +1,7 @@
 # Technical Design Document (TDD)
 **AI Lead Response & Site Visit Booking Platform**  
 **Client: Company A, Ahmedabad (Residential Developer)**  
-**Repository URL:** [https://github.com/company-a-dev/real-estate-ai-assistant](https://github.com/company-a-dev/real-estate-ai-assistant)  
-**Live Demo Deployment:** [https://company-a-realestate-assistant.onrender.com](https://company-a-realestate-assistant.onrender.com) *(Demo deployment endpoint)*  
+**Repository URL:** [https://github.com/Aritra-19/Real-estate-developer-s-AI-lead-response-and-site-visit-booking-assistant.git](https://github.com/Aritra-19/Real-estate-developer-s-AI-lead-response-and-site-visit-booking-assistant.git)  
 
 ---
 
