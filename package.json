@@ -1,0 +1,27 @@
+{
+  "name": "company-a-realestate-assistant",
+  "version": "1.0.0",
+  "description": "AI Lead Response & Site Visit Booking Assistant - Company A, Ahmedabad",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "postinstall": "cd server && npm install && cd ../client && npm install",
+    "seed": "cd server && npm run seed",
+    "test": "cd server && npm test",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "dev": "node scripts/dev.js",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start"
+  },
+  "keywords": [
+    "real-estate",
+    "ai-assistant",
+    "lead-response",
+    "site-visit-booking",
+    "rera",
+    "dpdp"
+  ],
+  "author": "Engineering Candidate",
+  "license": "MIT"
+}
